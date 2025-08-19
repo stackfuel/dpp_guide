@@ -50,7 +50,7 @@ curl -LsSf https://astral.sh/uv/install.sh | sh
 
 Solltest du Probleme mit der Installation haben, schaue in die [Dokumentation](https://docs.astral.sh/uv/getting-started/installation/) oder melde dich beim Mentoring-Team von StackFuel.
 
-Nach der Installation kannst du prüfen, ob alles geklappt hat:
+Nach der Installation kannst du prüfen, ob alles geklappt hat. Starte dein Terminal/PowerShell erneut und gib den folgenden Befehl ein:
 
 ```bash
 uv --version
