@@ -1,35 +1,3 @@
-<!---
-# Leitfäden für das StackFuel Portfolio Projekt
-
-Hier findest du praktische Leitfäden für euer Protfolio Projekt. Gib uns gerne bescheid falls du noch etwas vermisst oder Verbesserungen vorschlagen möchtest 😉.
-
-## Setup
-- [Einrichtung von Visual Studio Code](./vscode_setup.md)
-- [Leitfaden für das Terminal](./terminal_guide.md)
-- [Leitfaden für den Python Paketmanager UV](./uv_guide.md)
-- [Leitfaden für Git](./git_guide.md)
-
-## Projekt
-- [Projekt Leitfaden](./project_guide.md)
-- [Beispieldatensätze](./data_sets.md)
-- [Referenzprojekt zur Inspiration](https://github.com/StackFuel-Mentoring/DPP-Referenzprojekt)
-
-
--->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # StackFuel Portfolio Projekt Kurs!
 
 Herzlich willkommen zu unserem Portfolio Projekt Kurs! In den nächsten Wochen wirst du mit unserer Unterstützung dein eigenes Data Science oder Data Analytics Projekt umsetzen. Damit endet wahrscheinlich deine Reise bei StackFuel und wir hoffen, dass du mit einem tollen Projekt und vielen neuen Fähigkeiten in die Zukunft starten kannst.
@@ -68,7 +36,7 @@ Der Kurs ist auf 3 Wochen angelegt. In dieser Zeit wirst du Schritt für Schritt
 - Einführung in das Projekttemplate und die Kursstruktur
 - Erste Schritte mit GitHub und Visual Studio Code
 
-#### **Wöchentliche Check-Ins** *Mittwoch jeder Woche*
+#### **Check-Ins** *Mittwoch jeder Woche*
 - Kurzes Update zu deinem Fortschritt
 - Beantwortung von Fragen und Klärung von Problemen
 - Feedback zu deinem Projekt
@@ -84,40 +52,51 @@ Solltest du an einem Termin nicht teilnehmen können oder Fragen haben, kannst d
 
 ### Zeitplan
 
-#### **Woche 1** Setup und Datenbeschaffung
+#### **Woche 1:** Setup und Datenbeschaffung
 
 In der ersten Woche richtest du deine Entwicklungsumgebung ein und sammelst die benötigten Daten für dein Projekt. Du wirst lernen, wie du GitHub für die Versionskontrolle nutzt und wie du Visual Studio Code als IDE verwendest.
 
 Folgende Punkte sollten bis Ende der Woche erledigt sein:
 - [ ] GitHub Account erstellt
 - [ ] Technisches Setup abgeschlossen (Git, VSCode, UV)
+- [ ] Mit dem Setup vertraut gemacht (Nutze dafür die Leitfäden im unteren Abschnitt)
 - [ ] Repository auf GitHub erstellt und mit dem Mentoring Team geteilt
 - [ ] Datensatz ausgewählt und erste EDA durchgeführt
 - [ ] Ziele und Hypothesen für dein Projekt definiert
 
 
-### Woche 2: Datenanalyse & Entwicklung  
+#### **Woche 2:** Datenanalyse & Entwicklung  
 
-Die Zweite Woche steht ganz im Zeichen der Datenanalyse und der Entwicklung deines Projekts.
+Die Zweite Woche steht ganz im Zeichen der Datenanalyse und der Entwicklung deines Projekts. Du wirst dich intensiv mit deinem gewählten Datensatz auseinander setzten, tiefgreifende analysen durchführen und, sofern du ein Data Science Projekt umsetzt, deine ersten Modelle Trainieren.
+
+Folgende Punkte sollten bis Ende der Woche erledigt sein:
+- [ ] Tiefgehende EDA deines Datensatzes
+- [ ] Erste Erkentnisse, Probleme und Learnings formuliert
+
+*Falls du ein Data Science Projekt umsetzt:*
+- [ ] Erste Modellauswahl getroffen und Baseline Model Trainiert
 
 
 
 ### Woche 3: Finalisierung & Präsentation
-*[Wird vom Kursleiter ausgefüllt]*
+*[Verfollständige diesen Abschnitt Sinnvoll]*
 
-## 🛠️ Setup-Leitfäden
+## 📚 Zusätzliche Ressourcen
 
-Falls du detaillierte Anleitungen für die Installation und Einrichtung deiner Entwicklungsumgebung benötigst:
+### 🛠️ Setup-Leitfäden
+
+Du lernst in diesem Kurs einige neue Tools kennen. Um dir die Arbeit mit diesen Arbeitsmitteln zu erleichtern haben wir ein paar Leitfäden erstellt, die dich Schrit für Schritt an die Arbeit mit diesen heranführen. Mache dich in der ersten Woche mit diesen Tools vertraut um ein gutes Portfolio Projekt umsetzen zu können.
 
 - [Einrichtung von Visual Studio Code](./vscode_setup.md)
 - [Leitfaden für das Terminal](./terminal_guide.md)
 - [Leitfaden für den Python Paketmanager UV](./uv_guide.md)
 - [Leitfaden für Git](./git_guide.md)
 
-## 📚 Zusätzliche Ressourcen
+### Weitere Links und Hilfestellungen
 
-- [Projekt Leitfäden](./project_guide.md) - Tipps für Struktur und Best Practices
-- [Beispieldatensätze](./data_sets.md) - Datensätze für dein Projekt
+
+- [Projekt Leitfaden](./project_guide.md) - Tipps für Struktur und Best Practices
+- [Beispieldatensätze](./data_sets.md) - Beispielhafte Auswahl an Datensätzen die du verwenden kannst
 - [Referenzprojekt zur Inspiration](https://github.com/StackFuel-Mentoring/DPP-Referenzprojekt) - Schau dir an, wie ein fertiges Projekt aussehen kann
 
 ## 💬 Fragen oder Feedback?
