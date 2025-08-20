@@ -6,24 +6,23 @@ Hier findest du alles, was du brauchst, um erfolgreich in dein Data Projekt zu s
 
 ## Inhaltsverzeichnis
 
-- [StackFuel Portfolio Projekt Kurs](#stackfuel-portfolio-projekt-kurs)
-  - [🚀 Vorbereitung](#-vorbereitung)
+- [🚀 Vorbereitung](#-vorbereitung)
     - [Technische Voraussetzungen](#technische-voraussetzungen)
     - [Zusätzliche Vorbereitung *Optional*](#zusätzliche-vorbereitung-optional)
-  - [📅 Ablauf des Kurses](#-ablauf-des-kurses)
+- [📅 Ablauf des Kurses](#-ablauf-des-kurses)
     - [Termine](#termine)
-  - [📋 Wochenplan](#-wochenplan)
-    - [**Woche 1:** Setup und Projektplanung](#woche-1-setup-und-projektplanung)
-    - [**Woche 2:** Datenanalyse & Entwicklung](#woche-2-datenanalyse--entwicklung)
-    - [**Woche 3:** Finalisierung & Präsentation](#woche-3-finalisierung--präsentation)
-  - [📚 Zusätzliche Ressourcen](#-zusätzliche-ressourcen)
+    - [📋 Wochenplan](#-wochenplan)
+        - [**Woche 1:** Setup und Projektplanung](#woche-1-setup-und-projektplanung)
+        - [**Woche 2:** Datenanalyse & Entwicklung](#woche-2-datenanalyse--entwicklung)
+        - [**Woche 3:** Finalisierung & Präsentation](#woche-3-finalisierung--präsentation)
+- [📚 Zusätzliche Ressourcen](#-zusätzliche-ressourcen)
     - [🛠️ Setup-Leitfäden](#️-setup-leitfäden)
     - [📖 Projekt-Ressourcen](#-projekt-ressourcen)
     - [🎯 Tipps für ein erfolgreiches Projekt](#-tipps-für-ein-erfolgreiches-projekt)
-  - [💬 Support & Kommunikation](#-support--kommunikation)
+- [💬 Support & Kommunikation](#-support--kommunikation)
     - [Bei Fragen oder Problemen:](#bei-fragen-oder-problemen)
     - [Feedback erwünscht!](#feedback-erwünscht)
-  - [✅ Quick Start Checklist](#-quick-start-checklist)
+- [✅ Quick Start Checklist](#-quick-start-checklist)
 
 ## 🚀 Vorbereitung
 
@@ -71,13 +70,13 @@ Der Kurs ist auf 3 Wochen angelegt. In dieser Zeit wirst du Schritt für Schritt
 **Wichtig:** Solltest du an einem Termin nicht teilnehmen können oder Fragen haben, kannst du dich gerne jederzeit an das Mentoring Team wenden.
 
 
-## 📋 Wochenplan
+### 📋 Wochenplan
 
-### **Woche 1:** Setup und Projektplanung
+#### **Woche 1:** Setup und Projektplanung
 
 In der ersten Woche richtest du deine Entwicklungsumgebung ein und planst dein Projekt. Du wirst lernen, wie du GitHub für die Versionskontrolle nutzt und wie du Visual Studio Code als IDE verwendest.
 
-#### Ziele der Woche:
+##### Ziele der Woche:
 - [ ] **Technisches Setup**: GitHub Account erstellt, Git, VSCode und UV installiert
 - [ ] **Vertraut machen**: Mit allen Tools arbeiten können (nutze dafür die Leitfäden)
 - [ ] **Repository erstellen**: Projekt auf GitHub angelegt und mit Mentoring Team geteilt
@@ -85,16 +84,16 @@ In der ersten Woche richtest du deine Entwicklungsumgebung ein und planst dein P
 - [ ] **Projektziele definieren**: Klare Fragestellungen und Hypothesen für dein Projekt formuliert
 - [ ] **README schreiben**: Erste Version deiner Projektbeschreibung erstellt
 
-#### Deliverables:
+##### Deliverables:
 - Funktionierendes GitHub Repository
 - Erster Commit mit Projektstruktur
 - Kurze Projektbeschreibung im README
 
-### **Woche 2:** Datenanalyse & Entwicklung
+#### **Woche 2:** Datenanalyse & Entwicklung
 
 Die zweite Woche steht ganz im Zeichen der Datenanalyse und der Entwicklung deines Projekts. Du wirst dich intensiv mit deinem gewählten Datensatz auseinandersetzen, tiefgreifende Analysen durchführen und, sofern du ein Data Science Projekt umsetzt, deine ersten Modelle trainieren.
 
-#### Ziele der Woche:
+##### Ziele der Woche:
 - [ ] **Tiefgehende EDA**: Vollständige explorative Datenanalyse mit aussagekräftigen Visualisierungen
 - [ ] **Datenbereinigung**: Umgang mit fehlenden Werten, Ausreißern und inkonsistenten Daten
 - [ ] **Erste Erkenntnisse**: Wichtige Patterns und Insights aus den Daten extrahiert
@@ -105,16 +104,16 @@ Die zweite Woche steht ganz im Zeichen der Datenanalyse und der Entwicklung dein
 - [ ] **Baseline Model**: Erstes einfaches Modell trainiert und evaluiert
 - [ ] **Modellvergleich**: Verschiedene Algorithmen getestet
 
-#### Deliverables:
+##### Deliverables:
 - Jupyter Notebook mit vollständiger EDA
 - Dokumentierte Datenbereinigungsschritte
 - Erste Modellresultate (bei ML-Projekten)
 
-### **Woche 3:** Finalisierung & Präsentation
+#### **Woche 3:** Finalisierung & Präsentation
 
 In der letzten Woche bringst du dein Projekt zum Abschluss und bereitest deine Präsentation vor. Der Fokus liegt auf der Verfeinerung deiner Ergebnisse und einer klaren Kommunikation deiner Erkenntnisse.
 
-#### Ziele der Woche:
+##### Ziele der Woche:
 - [ ] **Ergebnisse finalisieren**: Finale Analysen durchführen und Modelle optimieren
 - [ ] **Visualisierungen erstellen**: Aussagekräftige Grafiken für die Präsentation
 - [ ] **Dokumentation vervollständigen**: README, Code-Kommentare und Projektdokumentation überarbeiten
@@ -127,7 +126,7 @@ In der letzten Woche bringst du dein Projekt zum Abschluss und bereitest deine P
 - [ ] **Feature Importance**: Analyse der wichtigsten Einflussfaktoren
 - [ ] **Ausblick**: Ideen für weitere Verbesserungen dokumentieren
 
-#### Deliverables:
+##### Deliverables:
 - Vollständiges, dokumentiertes GitHub Repository
 - Präsentation (10-15 Minuten)
 - Reflexion über das Projekt und Learnings
