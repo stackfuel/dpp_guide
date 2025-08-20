@@ -78,16 +78,13 @@ In der ersten Woche richtest du deine Entwicklungsumgebung ein und planst dein P
 
 ##### Ziele der Woche:
 - [ ] **Technisches Setup**: GitHub Account erstellt, Git, VSCode und UV installiert
-- [ ] **Vertraut machen**: Mit allen Tools arbeiten können (nutze dafür die Leitfäden)
-- [ ] **Repository erstellen**: Projekt auf GitHub angelegt und mit Mentoring Team geteilt
+- [ ] **Leitfäden lesen**: Mit allen Tools arbeiten können, nutze dafür die [Setup-Leitfäden](#️-setup-leitfäden)
+- [ ] **Repository erstellen**: Projekt auf GitHub angelegt und **mit Mentoring Team geteilt**
 - [ ] **Datensatz auswählen**: Passenden Datensatz gefunden und erste Exploration durchgeführt
 - [ ] **Projektziele definieren**: Klare Fragestellungen und Hypothesen für dein Projekt formuliert
 - [ ] **README schreiben**: Erste Version deiner Projektbeschreibung erstellt
 
-##### Deliverables:
-- Funktionierendes GitHub Repository
-- Erster Commit mit Projektstruktur
-- Kurze Projektbeschreibung im README
+
 
 #### **Woche 2:** Datenanalyse & Entwicklung
 
@@ -104,10 +101,7 @@ Die zweite Woche steht ganz im Zeichen der Datenanalyse und der Entwicklung dein
 - [ ] **Baseline Model**: Erstes einfaches Modell trainiert und evaluiert
 - [ ] **Modellvergleich**: Verschiedene Algorithmen getestet
 
-##### Deliverables:
-- Jupyter Notebook mit vollständiger EDA
-- Dokumentierte Datenbereinigungsschritte
-- Erste Modellresultate (bei ML-Projekten)
+
 
 #### **Woche 3:** Finalisierung & Präsentation
 
@@ -118,18 +112,12 @@ In der letzten Woche bringst du dein Projekt zum Abschluss und bereitest deine P
 - [ ] **Visualisierungen erstellen**: Aussagekräftige Grafiken für die Präsentation
 - [ ] **Dokumentation vervollständigen**: README, Code-Kommentare und Projektdokumentation überarbeiten
 - [ ] **Präsentation vorbereiten**: Storyline entwickeln und Folien erstellen
-- [ ] **Code aufräumen**: Repository strukturieren und finalen Commit durchführen
-- [ ] **Reflexion schreiben**: Was hast du gelernt? Was würdest du anders machen?
 
 **Zusätzlich für Data Science Projekte:**
-- [ ] **Modell-Performance**: Finale Evaluation und Interpretation der Ergebnisse
+- [ ] **Modell-Performance**: Finale Evaluation
 - [ ] **Feature Importance**: Analyse der wichtigsten Einflussfaktoren
-- [ ] **Ausblick**: Ideen für weitere Verbesserungen dokumentieren
 
-##### Deliverables:
-- Vollständiges, dokumentiertes GitHub Repository
-- Präsentation (10-15 Minuten)
-- Reflexion über das Projekt und Learnings
+
 
 
 ## 📚 Zusätzliche Ressourcen
@@ -141,7 +129,7 @@ Du lernst in diesem Kurs einige neue Tools kennen. Um dir die Arbeit mit diesen 
 - [Einrichtung von Visual Studio Code](./vscode_setup.md) - IDE Setup und wichtige Extensions
 - [Leitfaden für das Terminal](./terminal_guide.md) - Grundlegende Kommandozeilen-Befehle
 - [Leitfaden für den Python Paketmanager UV](./uv_guide.md) - Dependency Management
-- [Leitfaden für Git](./git_guide.md) - Versionskontrolle und GitHub Workflow
+- [Leitfaden für Git](./git_guide.md) - Versionskontrolle mit Git
 
 ### 📖 Projekt-Ressourcen
 
@@ -195,8 +183,6 @@ Bevor es losgeht, stelle sicher, dass du diese Punkte abhaken kannst:
 - [ ] Erste Idee für ein Projektthema
 - [ ] Termine im Kalender eingetragen
 
-**Bereit für dein Portfolio Projekt? Dann kann es losgehen! 🚀**
 
----
 
 *Wir wünschen dir viel Erfolg und freuen uns darauf, dein Projekt wachsen zu sehen! Bei Fragen sind wir jederzeit für dich da.* 💪
