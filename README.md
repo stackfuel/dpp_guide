@@ -4,6 +4,27 @@ Herzlich willkommen zu unserem Portfolio Projekt Kurs! In den nächsten drei Woc
 
 Hier findest du alles, was du brauchst, um erfolgreich in dein Data Projekt zu starten. Wir haben für dich ein strukturiertes Template vorbereitet und praktische Leitfäden zusammengestellt, die dich durch den gesamten Prozess begleiten werden.
 
+## Inhaltsverzeichnis
+
+- [StackFuel Portfolio Projekt Kurs](#stackfuel-portfolio-projekt-kurs)
+  - [🚀 Vorbereitung](#-vorbereitung)
+    - [Technische Voraussetzungen](#technische-voraussetzungen)
+    - [Zusätzliche Vorbereitung *Optional*](#zusätzliche-vorbereitung-optional)
+  - [📅 Ablauf des Kurses](#-ablauf-des-kurses)
+    - [Termine](#termine)
+  - [📋 Wochenplan](#-wochenplan)
+    - [**Woche 1:** Setup und Projektplanung](#woche-1-setup-und-projektplanung)
+    - [**Woche 2:** Datenanalyse & Entwicklung](#woche-2-datenanalyse--entwicklung)
+    - [**Woche 3:** Finalisierung & Präsentation](#woche-3-finalisierung--präsentation)
+  - [📚 Zusätzliche Ressourcen](#-zusätzliche-ressourcen)
+    - [🛠️ Setup-Leitfäden](#️-setup-leitfäden)
+    - [📖 Projekt-Ressourcen](#-projekt-ressourcen)
+    - [🎯 Tipps für ein erfolgreiches Projekt](#-tipps-für-ein-erfolgreiches-projekt)
+  - [💬 Support & Kommunikation](#-support--kommunikation)
+    - [Bei Fragen oder Problemen:](#bei-fragen-oder-problemen)
+    - [Feedback erwünscht!](#feedback-erwünscht)
+  - [✅ Quick Start Checklist](#-quick-start-checklist)
+
 ## 🚀 Vorbereitung
 
 Wir werden uns im ersten gemeinsamen Termin das Projekttemplate anschauen und dir zeigen, wie du damit den ersten Schritt zu deinem Projekt machst. Damit du optimal vorbereitet bist und gleich mitmachen kannst, stelle sicher, dass du folgendes bereits vorbereitet hast:
@@ -15,7 +36,7 @@ Wir werden uns im ersten gemeinsamen Termin das Projekttemplate anschauen und di
 3. **Visual Studio Code**: Installiere Visual Studio Code, falls du es noch nicht hast. Du findest eine Anleitung im Abschnitt **Download und Installation von VSCode** in unserem [Leitfaden für Visual Studio Code](./vscode_setup.md).
 4. **UV Paketmanager**: Stelle sicher, dass du den UV Paketmanager installiert hast. Eine Anleitung findest du in unserem [Leitfaden für den UV Paketmanager](./uv_guide.md).
 
-### Zusättliche Vorbereitung *Optional* 
+### Zusätzliche Vorbereitung *Optional* 
 
 Wenn du möchtest, kannst du bereits einen Blick in unser [Projekttemplate](https://github.com/stackfuel/DPP-template) werfen. Es enthält eine grundlegende Struktur, die dir den Einstieg erleichtert.
 
