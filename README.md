@@ -125,10 +125,10 @@ Du lernst in diesem Kurs einige neue Tools kennen. Um dir die Arbeit mit diesen 
 
 ### 📖 Projekt-Ressourcen
 
-- [Projekt Template](
+- [Projekt Template](https://github.com/stackfuel/DPP-template) - Vorlage für ein gut organisiertes Data Projekt
 - [Projekt Leitfaden](./project_guide.md) - Tipps für Struktur und Best Practices
 - [Beispieldatensätze](./data_sets.md) - Kuratierte Auswahl an Datensätzen für verschiedene Projekttypen
-- [Referenzprojekt zur Inspiration](https://github.com/StackFuel-Mentoring/DPP-Referenzprojekt) - Schau dir an, wie ein fertiges Projekt aussehen kann
+- [Referenzprojekt](https://github.com/StackFuel-Mentoring/DPP-Referenzprojekt) - Schau dir an, wie ein fertiges Projekt aussehen kann
 
 ### 🎯 Tipps für ein erfolgreiches Projekt
 
