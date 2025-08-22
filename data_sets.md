@@ -1,12 +1,12 @@
 # Datensätze für Data Science / Analytics Projekte
 
 ## Einführung
-Die Auswahl eines geeigneten Datensatzes ist entscheidend für den Erfolg eines Data Science Projekts. Für ein dreiwöchiges Gruppenprojekt sollten die Daten ausreichend komplex sein, um interessante Analysen zu ermöglichen, aber nicht so umfangreich, dass die Vorverarbeitung den Großteil der Zeit in Anspruch nimmt.
+Die Auswahl eines geeigneten Datensatzes ist entscheidend für den Erfolg eines Data Science Projekts. Für ein gutes Projekt sollten die Daten ausreichend komplex sein, um interessante Analysen zu ermöglichen, aber nicht so umfangreich, dass die Vorverarbeitung den Großteil der Zeit in Anspruch nimmt.
 
 ## Auswahlkriterien für Datensätze
 Bei der Suche nach einem geeigneten Datensatz sollten folgende Aspekte berücksichtigt werden:
 
-Die Datenqualität sollte möglichst vollständig und korrekt sein, mit wenigen fehlenden Werten. Der Datensatz sollte groß genug sein, um aussagekräftige Analysen zu ermöglichen, aber nicht so groß, dass er schwer zu handhaben ist. Eine gute Dokumentation der Variablen und ihrer Bedeutung ist essenziell. Besonders bei zeitkritischen Themen wie COVID-19 sollten die Daten möglichst aktuell sein. Nicht zuletzt müssen die Nutzungsbedingungen die geplante Verwendung erlauben.
+Die Datenqualität sollte möglichst vollständig und korrekt sein, mit wenigen fehlenden Werten. Der Datensatz sollte groß genug sein, um aussagekräftige Analysen zu ermöglichen, aber nicht so groß, dass er schwer zu handhaben ist. Eine gute Dokumentation der Variablen und ihrer Bedeutung ist essenziell. Nicht zuletzt müssen die Nutzungsbedingungen die geplante Verwendung erlauben.
 
 ## Empfohlene Datensätze
 

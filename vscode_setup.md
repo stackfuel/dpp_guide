@@ -39,7 +39,7 @@ Nachdem du VSCode installiert hast, solltest du dich mit der Oberfläche vertrau
 
 ## Einrichtung
 
-Im [Get Started](https://code.visualstudio.com/docs/getstarted/getting-started) Guide wirst du in die Grundlagen von VSCode eingeführt. Dir wird ein Überblick über das grundlegende Interface, die Einstellungen, das Arbeiten mit Source Control (Git) sowie die Erweiterung der Software mit Language Extensions (z. B. für Python) gegeben. Lies dir diesen Guide durch, um dich mit den Grundlagen von VSCode vertraut zu machen.
+Im [Get Started](https://code.visualstudio.com/docs/getstarted/getting-started) Guide wirst du in die Grundlagen von VSCode eingeführt. Dir wird ein Überblick über das grundlegende Interface, die Einstellungen, das Arbeiten mit Source Control (Git) sowie die Erweiterung der Software mit Language Extensions (z. B. für Python) gegeben. Verschaffe dir hier einen Überblick. Du musst nicht das ganze Tutorial durcharbeiten, da du die wichtigsten Funktionen auch bei uns lernst.
 
 ### Erweiterungen
 
