@@ -26,7 +26,7 @@ Hier findest du alles, was du brauchst, um erfolgreich in dein Data Projekt zu s
 
 ## 🚀 Vorbereitung
 
-Wir werden uns im ersten gemeinsamen Termin das Projekttemplate anschauen und dir zeigen, wie du damit den ersten Schritt zu deinem Projekt machst. Damit du optimal vorbereitet bist und gleich mitmachen kannst, stelle sicher, dass du folgendes bereits vorbereitet hast:
+Wir werden uns im ersten gemeinsamen Termin das Projekttemplate anschauen und dir zeigen, wie du damit den ersten Schritt zu deinem Projekt machst. Damit du optimal vorbereitet bist und gleich mitmachen kannst, stelle sicher, dass du Folgendes bereits vorbereitet hast:
 
 ### Technische Voraussetzungen
 
@@ -41,7 +41,6 @@ Wenn du möchtest, kannst du bereits einen Blick in unser [Projekttemplate](http
 
 Alternativ kannst du dir auf [Kaggle](https://www.kaggle.com/datasets) geeignete Datensätze anschauen, die du in deinem Projekt verwenden kannst. Wir haben eine Liste von geeigneten Datensätzen in unserem [Beispieldatensätze Leitfaden](./data_sets.md) zusammengestellt.
 
-
 ## 📅 Ablauf des Kurses
 
 Der Kurs ist auf 3 Wochen angelegt. In dieser Zeit wirst du Schritt für Schritt dein Projekt entwickeln.
@@ -54,7 +53,7 @@ Der Kurs ist auf 3 Wochen angelegt. In dieser Zeit wirst du Schritt für Schritt
 - Erste Schritte mit GitHub und Visual Studio Code
 - Gemeinsame Besprechung möglicher Projektideen
 
-#### **Check-Ins** - *Mittwoch jeder Woche*
+#### **Check-ins** - *Mittwoch jeder Woche*
 - Kurzes Update zu deinem Fortschritt
 - Beantwortung von Fragen und Klärung von Problemen
 - Feedback zu deinem aktuellen Stand
@@ -69,7 +68,6 @@ Der Kurs ist auf 3 Wochen angelegt. In dieser Zeit wirst du Schritt für Schritt
 
 **Wichtig:** Solltest du an einem Termin nicht teilnehmen können oder Fragen haben, kannst du dich gerne jederzeit an das Mentoring Team wenden.
 
-
 ### 📋 Wochenplan
 
 #### **Woche 1:** Setup und Projektplanung
@@ -78,13 +76,11 @@ In der ersten Woche richtest du deine Entwicklungsumgebung ein und planst dein P
 
 ##### Ziele der Woche:
 - [ ] **Technisches Setup**: GitHub Account erstellt, Git, VSCode und UV installiert
-- [ ] **Leitfäden lesen**: Mit allen Tools arbeiten können, nutze dafür die [Setup-Leitfäden](#️-setup-leitfäden)
+- [ ] **Leitfäden lesen**: Mit allen Tools arbeiten können; nutze dafür die [Setup-Leitfäden](#️-setup-leitfäden)
 - [ ] **Repository erstellen**: Projekt auf GitHub angelegt und **mit Mentoring Team geteilt**
 - [ ] **Datensatz auswählen**: Passenden Datensatz gefunden und erste Exploration durchgeführt
 - [ ] **Projektziele definieren**: Klare Fragestellungen und Hypothesen für dein Projekt formuliert
 - [ ] **README schreiben**: Erste Version deiner Projektbeschreibung erstellt
-
-
 
 #### **Woche 2:** Datenanalyse & Entwicklung
 
@@ -101,8 +97,6 @@ Die zweite Woche steht ganz im Zeichen der Datenanalyse und der Entwicklung dein
 - [ ] **Baseline Model**: Erstes einfaches Modell trainiert und evaluiert
 - [ ] **Modellvergleich**: Verschiedene Algorithmen getestet
 
-
-
 #### **Woche 3:** Finalisierung & Präsentation
 
 In der letzten Woche bringst du dein Projekt zum Abschluss und bereitest deine Präsentation vor. Der Fokus liegt auf der Verfeinerung deiner Ergebnisse und einer klaren Kommunikation deiner Erkenntnisse.
@@ -116,9 +110,6 @@ In der letzten Woche bringst du dein Projekt zum Abschluss und bereitest deine P
 **Zusätzlich für Data Science Projekte:**
 - [ ] **Modell-Performance**: Finale Evaluation
 - [ ] **Feature Importance**: Analyse der wichtigsten Einflussfaktoren
-
-
-
 
 ## 📚 Zusätzliche Ressourcen
 
@@ -142,7 +133,7 @@ Du lernst in diesem Kurs einige neue Tools kennen. Um dir die Arbeit mit diesen 
 
 **Projektauswahl:**
 - Wähle ein Thema, das dich wirklich interessiert
-- Stelle sicher, dass der Datensatz nicht zu komplex aber auch nicht zu simpel ist
+- Stelle sicher, dass der Datensatz nicht zu komplex, aber auch nicht zu simpel ist
 - Definiere klare, beantwortbare Fragestellungen
 
 **Während der Entwicklung:**
@@ -157,13 +148,12 @@ Du lernst in diesem Kurs einige neue Tools kennen. Um dir die Arbeit mit diesen 
 - Sei ehrlich über Limitationen und Herausforderungen
 - Übe deine Präsentation im Vorfeld
 
-
 ## 💬 Support & Kommunikation
 
 ### Bei Fragen oder Problemen:
 
 - **Technische Probleme**: Nutze die Setup-Leitfäden oder frage im Slack-Channel
-- **Inhaltliche Fragen**: Bringe sie zu den Check-In Terminen mit
+- **Inhaltliche Fragen**: Bringe sie zu den Check-in Terminen mit
 - **Dringende Anliegen**: Kontaktiere das Mentoring Team direkt
 
 ### Feedback erwünscht!
@@ -182,7 +172,5 @@ Bevor es losgeht, stelle sicher, dass du diese Punkte abhaken kannst:
 - [ ] UV Paketmanager installiert
 - [ ] Erste Idee für ein Projektthema
 - [ ] Termine im Kalender eingetragen
-
-
 
 *Wir wünschen dir viel Erfolg und freuen uns darauf, dein Projekt wachsen zu sehen! Bei Fragen sind wir jederzeit für dich da.* 💪
