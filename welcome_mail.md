@@ -8,7 +8,7 @@ Das Portfolio-Training ist der finale Abschnitt deiner Weiterbildung bei StackFu
 
 Die Hauptziele dieses Trainings sind:
 
-1. Die Erstellung eines vollständigen GitHub-Portfolios mit einem eigenen Datenprojekt, das du potenziellen Arbeitgebern präsentieren kannst
+1. Die Erstellung eines eigenen vollständigen Datenprojekts für dein GitHub-Portfolio, das du potenziellen Arbeitgebern präsentieren kannst
 2. Die Entwicklung von Sicherheit und Routine im Umgang mit Git und GitHub als unverzichtbare Werkzeuge der modernen Softwareentwicklung
 3. Ein vertieftes Verständnis für das Aufsetzen komplexer Datenprojekte, einschließlich der strukturierten Organisation größerer Projekte und der professionellen Nutzung von Tools wie Paketmanagern und fortschrittlichen Entwicklungsumgebungen
 4. Die Befähigung, dein Portfolio nach Abschluss des Trainings eigenständig zu erweitern und mit weiteren Projekten zu bereichern
@@ -41,6 +41,28 @@ Damit wir direkt mit dem Training starten können, stelle bitte sicher, dass du 
    [https://github.com/signup](https://github.com/signup)
 
 Solltest du Hilfe bei der Einrichtung dieser Tools benötigen, findest du entsprechende Anleitungen in den oben genannten Leitfäden.
+
+## Organisatorisches
+
+Das Portfolio-Training wird in einem Zeitraum von drei Wochen stattfinden. In dieser Zeit gibt es mehrere Termine:
+
+- **Kick-off-Meeting** *Erster Montag deines Trainings, 9:30 Uhr*: Einführung in das Training, Vorstellung der Ziele und des Ablaufs.
+- **Wöchentliche Check-ins** *Jeden Mittwoch, 9:30 Uhr*: Besprechung des Fortschritts, Klärung von Fragen und Herausforderungen.
+- **Abschlusspräsentation** *Letzter Freitag deines Trainings, 13:00 Uhr*: Präsentation deines Projekts und Feedbackrunde.
+
+Du kannst über folgenden Link an den Meetings teilnehmen:
+
+[**DPP Butter Raum**](https://join.butter.us/stackfuel/dpp)
+
+**Wichtig:** Bitte teste in der Woche vor dem Start des Trainings, ob deine Kamera, dein Mikrofon und das Teilen deines Bildschirms in Butter funktionieren. Du kannst dazu an jedem Wochentag von 13:00 bis 15:00 Uhr im Mentoring-On-Demand-Raum vorbeischauen, um dein Setup auszuprobieren.
+
+[**Mentoring On-Demand Raum**](https://join.butter.us/stackfuel/mentoring-on-demand)
+
+Die genannten Termine sind verpflichtend. Solltest du an einem Termin nicht teilnehmen können, informiere uns bitte rechtzeitig im Voraus.
+
+Neben den festen Terminen hast du die Möglichkeit, während der gesamten Trainingsdauer jederzeit Fragen zu stellen und Unterstützung zu erhalten. Dazu wirst du in der Woche vor Trainingsbeginn zu einem Slack-Channel hinzugefügt, in dem du dich mit deinen Trainer:innen und anderen Teilnehmer:innen austauschen kannst. Zudem steht dir unser Mentoring- und Administrationsteam während der gesamten Trainingszeit wie gewohnt zur Verfügung.
+
+---
 
 Wir freuen uns sehr darauf, mit dir zusammen an deinem Projekt zu arbeiten und dich auf diesem letzten Abschnitt deiner Weiterbildung zu begleiten. Das Portfolio-Training wird nicht nur deine technischen Fähigkeiten erweitern, sondern dir auch ein wertvolles Präsentationsmittel für deine berufliche Zukunft an die Hand geben.
 
