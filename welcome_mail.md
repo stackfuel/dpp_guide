@@ -1,6 +1,6 @@
 # Herzlich willkommen zum Portfolio-Training
 
-Herzlichen Glückwunsch zum erfolgreichen Abschluss der bisherigen Kurse und zum Erhalt deines Zertifikats! Du hast bereits beeindruckende Fortschritte gemacht, und wir freuen uns, dich nun zum abschließenden Portfolio-Training begrüßen zu dürfen.
+Herzlichen Glückwunsch zum erfolgreichen Abschluss der bisherigen Kurse! Du hast bereits beeindruckende Fortschritte gemacht, und wir freuen uns, dich nun zum abschließenden Portfolio-Training begrüßen zu dürfen.
 
 ## Über das Portfolio-Training
 
