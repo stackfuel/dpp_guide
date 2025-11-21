@@ -4,25 +4,7 @@ Herzlich willkommen zu unserem Portfolio Projekt Kurs! In den nächsten drei Woc
 
 Hier findest du alles, was du brauchst, um erfolgreich in dein Data Projekt zu starten. Wir haben für dich ein strukturiertes Template vorbereitet und praktische Leitfäden zusammengestellt, die dich durch den gesamten Prozess begleiten werden.
 
-## Inhaltsverzeichnis
 
-- [🚀 Vorbereitung](#-vorbereitung)
-    - [Technische Voraussetzungen](#technische-voraussetzungen)
-    - [Zusätzliche Vorbereitung *Optional*](#zusätzliche-vorbereitung-optional)
-- [📅 Ablauf des Kurses](#-ablauf-des-kurses)
-    - [Termine](#termine)
-    - [📋 Wochenplan](#-wochenplan)
-        - [**Woche 1:** Setup und Projektplanung](#woche-1-setup-und-projektplanung)
-        - [**Woche 2:** Datenanalyse & Entwicklung](#woche-2-datenanalyse--entwicklung)
-        - [**Woche 3:** Finalisierung & Präsentation](#woche-3-finalisierung--präsentation)
-- [📚 Zusätzliche Ressourcen](#-zusätzliche-ressourcen)
-    - [🛠️ Setup-Leitfäden](#️-setup-leitfäden)
-    - [📖 Projekt-Ressourcen](#-projekt-ressourcen)
-    - [🎯 Tipps für ein erfolgreiches Projekt](#-tipps-für-ein-erfolgreiches-projekt)
-- [💬 Support & Kommunikation](#-support--kommunikation)
-    - [Bei Fragen oder Problemen:](#bei-fragen-oder-problemen)
-    - [Feedback erwünscht!](#feedback-erwünscht)
-- [✅ Quick Start Checklist](#-quick-start-checklist)
 
 ## 🚀 Vorbereitung
 
@@ -41,79 +23,8 @@ Wenn du möchtest, kannst du bereits einen Blick in unser [Projekttemplate](http
 
 Alternativ kannst du dir auf [Kaggle](https://www.kaggle.com/datasets) geeignete Datensätze anschauen, die du in deinem Projekt verwenden kannst. Wir haben eine Liste von geeigneten Datensätzen in unserem [Beispieldatensätze Leitfaden](./data_sets.md) zusammengestellt.
 
-## 📅 Ablauf des Kurses
 
-Der Kurs ist auf 3 Wochen angelegt. In dieser Zeit wirst du Schritt für Schritt dein Projekt entwickeln.
-
-### Termine
-
-#### **Kickoff Meeting** - *Montag, Woche 1*
-- Kennenlernen des Mentoring Teams und der anderen Teilnehmenden
-- Einführung in das Projekttemplate und die Kursstruktur
-- Erste Schritte mit GitHub und Visual Studio Code
-- Gemeinsame Besprechung möglicher Projektideen
-
-#### **Check-ins** - *Mittwoch jeder Woche*
-- Kurzes Update zu deinem Fortschritt
-- Beantwortung von Fragen und Klärung von Problemen
-- Feedback zu deinem aktuellen Stand
-- Ausblick auf die kommende Woche
-
-#### **Abschlusspräsentation** - *Freitag, Woche 3*
-- Präsentation deines fertigen Projekts (10-15 Minuten)
-- Feedback von Mentoren und anderen Teilnehmenden
-- Feier eures gemeinsamen Erfolgs! 🎉
-
-*Die genauen Termine und Uhrzeiten werden dir per E-Mail mitgeteilt.*
-
-**Wichtig:** Solltest du an einem Termin nicht teilnehmen können oder Fragen haben, kannst du dich gerne jederzeit an das Mentoring Team wenden.
-
-### 📋 Wochenplan
-
-#### **Woche 1:** Setup und Projektplanung
-
-In der ersten Woche richtest du deine Entwicklungsumgebung ein und planst dein Projekt. Du wirst lernen, wie du GitHub für die Versionskontrolle nutzt und wie du Visual Studio Code als IDE verwendest.
-
-##### Ziele der Woche:
-- [ ] **Technisches Setup**: GitHub Account erstellt, Git, VSCode und UV installiert
-- [ ] **Leitfäden lesen**: Mit allen Tools arbeiten können; nutze dafür die [Setup-Leitfäden](#️-setup-leitfäden)
-- [ ] **Repository erstellen**: Projekt auf GitHub angelegt und **mit Mentoring Team geteilt**
-- [ ] **Datensatz auswählen**: Passenden Datensatz gefunden und erste Exploration durchgeführt
-- [ ] **Projektziele definieren**: Klare Fragestellungen und Hypothesen für dein Projekt formuliert
-- [ ] **README schreiben**: Erste Version deiner Projektbeschreibung erstellt
-
-#### **Woche 2:** Datenanalyse & Entwicklung
-
-Die zweite Woche steht ganz im Zeichen der Datenanalyse und der Entwicklung deines Projekts. Du wirst dich intensiv mit deinem gewählten Datensatz auseinandersetzen, tiefgreifende Analysen durchführen und, sofern du ein Data Science Projekt umsetzt, deine ersten Modelle trainieren.
-
-##### Ziele der Woche:
-- [ ] **Tiefgehende EDA**: Vollständige explorative Datenanalyse mit aussagekräftigen Visualisierungen
-- [ ] **Datenbereinigung**: Umgang mit fehlenden Werten, Ausreißern und inkonsistenten Daten
-- [ ] **Erste Erkenntnisse**: Wichtige Patterns und Insights aus den Daten extrahiert
-- [ ] **Dokumentation**: Fortschritte und Learnings kontinuierlich dokumentiert
-
-**Zusätzlich für Data Science Projekte:**
-- [ ] **Feature Engineering**: Relevante Features identifiziert und erstellt
-- [ ] **Baseline Model**: Erstes einfaches Modell trainiert und evaluiert
-- [ ] **Modellvergleich**: Verschiedene Algorithmen getestet
-
-#### **Woche 3:** Finalisierung & Präsentation
-
-In der letzten Woche bringst du dein Projekt zum Abschluss und bereitest deine Präsentation vor. Der Fokus liegt auf der Verfeinerung deiner Ergebnisse und einer klaren Kommunikation deiner Erkenntnisse.
-
-##### Ziele der Woche:
-- [ ] **Ergebnisse finalisieren**: Finale Analysen durchführen und Modelle optimieren
-- [ ] **Visualisierungen erstellen**: Aussagekräftige Grafiken für die Präsentation
-- [ ] **Dokumentation vervollständigen**: README, Code-Kommentare und Projektdokumentation überarbeiten
-- [ ] **Präsentation vorbereiten**: Storyline entwickeln und Folien erstellen
-
-**Zusätzlich für Data Science Projekte:**
-- [ ] **Modell-Performance**: Finale Evaluation
-- [ ] **Feature Importance**: Analyse der wichtigsten Einflussfaktoren
-
-## 📚 Zusätzliche Ressourcen
-
-### 🛠️ Setup-Leitfäden
+## 🛠️ Setup-Leitfäden
 
 Du lernst in diesem Kurs einige neue Tools kennen. Um dir die Arbeit mit diesen Arbeitsmitteln zu erleichtern, haben wir Leitfäden erstellt, die dich Schritt für Schritt an die Arbeit mit diesen heranführen. Mache dich in der ersten Woche mit diesen Tools vertraut, um ein gutes Portfolio Projekt umsetzen zu können.
 
@@ -122,14 +33,13 @@ Du lernst in diesem Kurs einige neue Tools kennen. Um dir die Arbeit mit diesen 
 - [Leitfaden für den Python Paketmanager UV](./uv_guide.md) - Dependency Management
 - [Leitfaden für Git](./git_guide.md) - Versionskontrolle mit Git
 
-### 📖 Projekt-Ressourcen
+## 📖 Projekt-Ressourcen
 
 - [Projekt Template](https://github.com/stackfuel/DPP-template) - Vorlage für ein gut organisiertes Data Projekt
-- [Projekt Leitfaden](./project_guide.md) - Tipps für Struktur und Best Practices
 - [Beispieldatensätze](./data_sets.md) - Kuratierte Auswahl an Datensätzen für verschiedene Projekttypen
 - [Referenzprojekt](https://github.com/StackFuel-Mentoring/DPP-Referenzprojekt) - Schau dir an, wie ein fertiges Projekt aussehen kann
 
-### 🎯 Tipps für ein erfolgreiches Projekt
+## 🎯 Tipps für ein erfolgreiches Projekt
 
 **Projektauswahl:**
 - Wähle ein Thema, das dich wirklich interessiert
@@ -148,29 +58,4 @@ Du lernst in diesem Kurs einige neue Tools kennen. Um dir die Arbeit mit diesen 
 - Sei ehrlich über Limitationen und Herausforderungen
 - Übe deine Präsentation im Vorfeld
 
-## 💬 Support & Kommunikation
 
-### Bei Fragen oder Problemen:
-
-- **Technische Probleme**: Nutze die Setup-Leitfäden oder frage im Slack-Channel
-- **Inhaltliche Fragen**: Bringe sie zu den Check-in Terminen mit
-- **Dringende Anliegen**: Kontaktiere das Mentoring Team direkt
-
-### Feedback erwünscht!
-
-Hast du Verbesserungsvorschläge für diesen Kurs oder die Materialien? Wir freuen uns über dein Feedback und werden es für zukünftige Kurse nutzen.
-
----
-
-## ✅ Quick Start Checklist
-
-Bevor es losgeht, stelle sicher, dass du diese Punkte abhaken kannst:
-
-- [ ] GitHub Account erstellt
-- [ ] Git installiert und konfiguriert  
-- [ ] Visual Studio Code installiert
-- [ ] UV Paketmanager installiert
-- [ ] Erste Idee für ein Projektthema
-- [ ] Termine im Kalender eingetragen
-
-*Wir wünschen dir viel Erfolg und freuen uns darauf, dein Projekt wachsen zu sehen! Bei Fragen sind wir jederzeit für dich da.* 💪
