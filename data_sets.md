@@ -72,16 +72,6 @@ Clustering, Datenanalyse, Zeitreihenanalyse
 ---
 
 
-#### **Flight Price Prediction**
-
-[https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction](https://www.kaggle.com/datasets/shubhambathwal/flight-price-prediction)
-- Regressionsaufgabe mit 12 Merkmalen
-- Gut geeignet für Preisvorhersagen und Feature Engineering
-- Praktische Anwendung von Machine Learning im Reisebereich
-
-**Beschreibung:** Dieser Datensatz enthält Preisinformationen von Flügen sowie Merkmale wie Fluggesellschaft, Reisedatum, Abflugort, Zielort. Mit 12 Spalten eignet er sich für Regressionsmodelle, um Flugpreise basierend auf verschiedenen Faktoren vorherzusagen.
-
----
 
 #### **Car Sales Prediction**
 
