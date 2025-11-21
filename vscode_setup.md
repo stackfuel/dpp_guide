@@ -72,43 +72,14 @@ Hier sind die empfohlenen Erweiterungen für dein Python-Projekt:
    - Hilft dir, deinen Code sauber und nach den Python-Standards zu formatieren
    - Suche nach "Ruff" und installiere die entsprechende Erweiterung
 
-Nach der Installation dieser Erweiterungen sollte VSCode automatisch deine Python-Umgebung erkennen (mehr dazu im [UV-Leitfaden](./uv_guide.md)) und die entsprechenden Funktionen zur Verfügung stellen. Falls du weitere Erweiterungen benötigst, kannst du jederzeit den [Extension Marketplace](https://code.visualstudio.com/docs/configure/extensions/extension-marketplace) durchsuchen.
+Falls du weitere Erweiterungen benötigst, kannst du jederzeit den [Extension Marketplace](https://code.visualstudio.com/docs/configure/extensions/extension-marketplace) durchsuchen.
 
 ### Terminal
 
 Ein wichtiger Bestandteil der Arbeit mit VSCode ist das integrierte Terminal, das dir ermöglicht, Befehle direkt aus dem Editor heraus auszuführen, ohne zwischen verschiedenen Anwendungen wechseln zu müssen. Das Terminal wird im [Leitfaden zu UV](./uv_guide.md) wichtig, wenn es darum geht, mit dem Paketmanager UV zu arbeiten und Python sowie einige Pakete zu installieren. Aber auch für die Arbeit mit Git und anderen Entwicklungswerkzeugen ist das Terminal wichtig. Im [Leitfaden zum Terminal](./terminal_guide.md) werden wir uns genauer mit diesem Werkzeug beschäftigen und dir zeigen, wie du es effektiv nutzen kannst.
 
-Hier sind einige grundlegende Funktionen und Tipps zur Verwendung des Terminals in VSCode:
-
-**Öffnen des Terminals**:
-
-- Drücke `Ctrl+Ö` (Windows/Linux) oder `Cmd+Ö` (macOS).
-- Alternativ kannst du über das Menü "Terminal" > "New Terminal" ein neues Terminal öffnen.
-
-**Grundlegende Terminal-Funktionen in VSCode**:
-
-1. **Mehrere Terminals verwalten**:
-
-   - Du kannst mehrere Terminal-Instanzen haben, zwischen denen du über das Dropdown-Menü in der Terminal-Leiste wechseln kannst.
-   - Teile das Terminal-Fenster horizontal oder vertikal mit dem "Split"-Button.
-
-2. **Terminal-Typ auswählen**:
-
-   - In Windows kannst du zwischen PowerShell, Command Prompt und WSL wählen.
-   - In macOS/Linux stehen verschiedene Shells wie Bash, Zsh oder Fish zur Verfügung.
-
-3. **Befehle ausführen**:
-
-   - Führe Python-Skripte aus: `python mein_skript.py`
-   - Verwende UV für Paketmanagement (siehe [UV-Leitfaden](uv_guide.md))
-   - Arbeite mit Git (siehe [Git-Leitfaden](git_guide.md))
-
-4. **Terminal-Ausgabe durchsuchen**:
-
-   - Nutze `Ctrl+F` (Windows/Linux) oder `Cmd+F` (macOS), um in der Terminal-Ausgabe zu suchen.
-
-5. **Terminaleinstellungen anpassen**:
-   - Passe Schriftart, Größe und andere Einstellungen über die VSCode-Einstellungen an.
+Drücke `Ctrl+Ö` (Windows/Linux) oder `Cmd+Ö` (macOS) um das Terminal zu öffnen.
+Alternativ kannst du über das Menü "Terminal" > "New Terminal" ein neues Terminal öffnen.
 
 Für eine ausführlichere Einführung in die Arbeit mit dem Terminal, lies bitte den [Terminal-Leitfaden](./terminal_guide.md), der detaillierte Informationen und Beispiele enthält.
 
