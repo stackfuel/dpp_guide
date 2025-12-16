@@ -31,7 +31,7 @@ Der erste Schritt bei jedem neuen Projekt ist die Erstellung einer isolierten Py
 uv init
 ```
 
-Dieser befehl legt eine Reihe von Datein und Ordner in deinem Projektverzeichnis an. Schaue in den [UV Guide](uv_guide.md) um mehr über die Funktionsweise von UV zu erfahren.
+Dieser Befehl legt eine Reihe von Dateien und Ordner in deinem Projektverzeichnis an. Schaue in den [UV Guide](uv_guide.md) um mehr über die Funktionsweise von UV zu erfahren.
 
 ### Eine sinnvolle Projektstruktur erstellen
 
