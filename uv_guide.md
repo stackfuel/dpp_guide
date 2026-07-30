@@ -79,8 +79,11 @@ uv init
 
 **Wichtige Parameter für `uv init`:**
 
-- `--python`: Legt die Python-Version fest, z. B. `uv init --python=3.12`
+- `--python`: Legt die Python-Version fest, z. B. `uv init --python=3.14`
 - `--name`: Setzt den Projektnamen, z. B. `uv init --name="mein-data-projekt"`
+
+> [!IMPORTANT]  
+> Achte darauf, dass die gewählte Python-Version bereits als System-Installation vorhanden ist. Ist sie es nicht, lädt `uv` eigenständig eine eigene, verwaltete Version herunter – das kann z. B. bei Jupyter-Kerneln zu Problemen führen, wenn System- und uv-verwaltete Python-Version nebeneinander existieren.
 
 UV hat jetzt ein neues Projekt in unserem Ordner angelegt und dabei einige Dateien und Ordner erstellt.
 
